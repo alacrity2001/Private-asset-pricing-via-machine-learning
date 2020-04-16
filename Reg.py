@@ -1,6 +1,3 @@
-### This Version: March 10, 2019. @copyright Shihao Gu, Bryan Kelly and Dacheng Xiu
-### If you use these codes, please cite the paper "Empirical Asset Pricing via Machine Learning." (2018)
-
 ### Simulation Regression Models
 ### All Regressions 
 ### OLS, OLS+H, PCR, PLS, Lasso, Lasso+H, Ridge, Ridge+H, ENet, ENet+H and Group Lasso, Group Lasso+H.
